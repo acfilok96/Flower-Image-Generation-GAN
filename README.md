@@ -7,4 +7,4 @@ Click Here: https://colab.research.google.com/drive/1IHOtmBufp3eM9_Q57DFaHTTNZ-8
 
 Generated Image:-
 
-[]{https://github.com/acfilok96/Generation-of-Flower-Images/blob/main/LSGAN/3/Generated%20Images.png}
+![Generated Image](https://github.com/acfilok96/Generation-of-Flower-Images/blob/main/LSGAN/3/Generated%20Images.png)
